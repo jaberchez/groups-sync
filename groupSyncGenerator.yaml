@@ -1,0 +1,6 @@
+apiVersion: ccc.gruposantander.com/v1
+kind: VaultReplaceInline
+metadata:
+  name: vaultreplaceinline
+files:
+  - groupSync.yaml
